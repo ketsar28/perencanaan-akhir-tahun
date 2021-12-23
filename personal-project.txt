@@ -1,0 +1,4 @@
+Akhir Tahun 2021 :
+- Membuat website portofolio
+- Membuat website animasi
+- Menyelesaikan pembelajaran Git & GitHub
