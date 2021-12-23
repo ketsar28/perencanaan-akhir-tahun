@@ -1,5 +1,5 @@
 Akhir Tahun 2021 :
 - Membuat website portofolio
 - Membuat website animasi
-- Menyelesaikan pembelajaran Git & 
+- Menyelesaikan pembelajaran Git & GitHub
 - Membuat tampilan Login menggunakan HTML & CSS
